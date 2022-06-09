@@ -1,0 +1,12 @@
+E:\NTechV\Projects\AppX2\bin\Debug\AppX2.exe.config
+E:\NTechV\Projects\AppX2\bin\Debug\AppX2.exe
+E:\NTechV\Projects\AppX2\bin\Debug\AppX2.pdb
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.csproj.AssemblyReference.cache
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.csproj.SuggestedBindingRedirects.cache
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.Form1.resources
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.Properties.Resources.resources
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.csproj.GenerateResource.cache
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.csproj.CoreCompileInputs.cache
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.exe
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.pdb
+E:\NTechV\Projects\AppX2\obj\Debug\AppX2.About.resources
